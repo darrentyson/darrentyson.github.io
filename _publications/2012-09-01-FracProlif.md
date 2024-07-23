@@ -12,7 +12,7 @@ A method to deconvolve cell population dynamics from single-cell data. This pape
 
 [Download paper here]https://doi.org/10.1038/nmeth.2138)
 
-Recommended citation: Tyson DR, Garbett SP, Frick PL, Quaranta V. Fractional proliferation: a method to deconvolve cell population dynamics from single-cell data. Nat Methods. 2012; 9 923-928. doi:10.1038/nmeth.2138. PubMed PMID: 22886092. PMCID: PMC3459330
+Tyson DR, Garbett SP, Frick PL, Quaranta V. Fractional proliferation: a method to deconvolve cell population dynamics from single-cell data. Nat Methods. 2012; 9 923-928. doi:10.1038/nmeth.2138. PubMed PMID: 22886092. PMCID: PMC3459330
 
 
 
