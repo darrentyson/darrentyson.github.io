@@ -16,11 +16,11 @@ It's hard for me to separate work and play because work for me is so enjoyableâ€
 
 Recreation
 ------
-Cycling is a particular passion, especially mountain biking, but I'll ride anything with two wheels. I enjoy most music genres but have a special place in my heart for alternative and punk.
+Cycling is a particular passion, especially mountain biking, but I'll ride anything with two wheels. I can have fun playing just about any recreational sport or activity. I enjoy most music genres but have a special place in my heart for alternative and punk.
 
 Family
 ------
-I'm currently in my 29th year of marriage to my amazing wife, and my son is working hard studying computer engineering in college.
+I am very proud of my son who is studying computer engineering at [Rose-Hulman Institute of Technology](https://www.rose-hulman.edu) in Indiana. His mother is an amazing speech therapist specializing in feeding and swallowing disorders at [High Hopes for Kids](https://www.highhopesforkids.org) in Franklin, TN and whom I am very grateful to had been married to for many years.
 
 **Odd and ends**
 
