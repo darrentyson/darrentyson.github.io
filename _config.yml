@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Darren R Tyson"
+  name             : "Darren R. Tyson"
   avatar           : "DRT-image.png"
   bio              : "Chicago boy, Cali-seasoned, mountain biker, mad scientist"
-  location         : "Nashville, TN"
-  employer         : "Vanderbilt University"
+  location         : "Durham, NC"
+  employer         : "Duke University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=tyson+dr%5Bau%5D"
   googlescholar    : "https://scholar.google.com/citations?user=GHqEapgAAAAJ&hl=en&oi=ao"
-  email            : "d.tyson at vanderbilt.edu"
+  email            : "darren.tyson at duke.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "darrentyson_vu"
+  twitter          : "drdarrentyson"
   vine             :
   weibo            :
   xing             :
